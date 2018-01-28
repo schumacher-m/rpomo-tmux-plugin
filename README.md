@@ -17,3 +17,7 @@ set -g status-right '#[fg=white]| #{rpomo} #[fg=white]'
 
 * Hit PREFIX + I to install the plugin
 * Hit PREFIX + U to update the plugin
+
+## Example
+
+![Example](https://user-images.githubusercontent.com/275356/35482776-2869ccb0-043a-11e8-8607-cd64a92ddce5.png)
