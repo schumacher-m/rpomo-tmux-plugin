@@ -12,7 +12,7 @@ set -g @plugin 'schumacher-m/rpomo-tmux-plugin
 * Modify your status-* setting inside `.tmux.conf` eg.
 
 ```
-set -g status-right '#[fg=white]| #{rpomo} #[fg=white]'
+set -g status-right '#[fg=white]#{rpomo}#[fg=white]'
 ```
 
 * Hit PREFIX + I to install the plugin
