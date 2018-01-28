@@ -5,7 +5,7 @@ BREAK_ICON="💤"
 RPOMO=$(rpomo --status)
 COLOR=""
 
-if  [[ $RPOMO == Working* ]];
+if  [[ $RPOMO == Work* ]];
 then
   ICON=$WORKING_ICON
   COLOR="#[fg=white]"
