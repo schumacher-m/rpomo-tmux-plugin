@@ -9,7 +9,7 @@
 set -g @plugin 'schumacher-m/rpomo-tmux-plugin
 ```
 
-* Modify your status-* setting inside `.tmux.conf`
+* Modify your status-* setting inside `.tmux.conf` eg.
 
 ```
 set -g status-right '#[fg=white]| #{rpomo} #[fg=white]'
