@@ -14,4 +14,4 @@ else
   COLOR="#[fg=green]"
 fi
 
-echo "$ICON $COLOR $RPOMO"
+echo "$ICON $COLOR$RPOMO"
